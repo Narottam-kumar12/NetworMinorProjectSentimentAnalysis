@@ -251,7 +251,7 @@ B.Tech Computer Science Engineering (3rd Year)
 Madan Mohan Malaviya University of Technology, Gorakhpur  
 
 
-[GitHub →](https://github.com/Narottamkumar12)
+[GitHub →](https://github.com/Narottam-kumar12)
 
 ---
 
