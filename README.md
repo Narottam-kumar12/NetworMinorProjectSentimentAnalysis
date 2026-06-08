@@ -246,11 +246,10 @@ Distributed under the **MIT License**. See `LICENSE` for details.
 
 ## 👨‍💻 Authors
 
-**Narottam Kumar** · **Sandeep Kumar**  
+**Narottam Kumar** 
 B.Tech Computer Science Engineering (3rd Year)  
 Madan Mohan Malaviya University of Technology, Gorakhpur  
 
-**Supervisor:** Dr. Vimal Kumar, Assistant Professor, CSED, MMMUT
 
 [GitHub →](https://github.com/Narottamkumar12)
 
